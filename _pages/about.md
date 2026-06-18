@@ -17,42 +17,41 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👋 个人简介
+# 👋 About Me
 
-我是 **Zixu Li（李子旭）**，目前就读于 **兰州理工大学（Lanzhou University of Technology）**，位于中国甘肃兰州。
+I'm **Zixu Li**, currently studying at **Lanzhou University of Technology** in Gansu, China.
 
-我热衷于计算机科学和人工智能领域的研究与探索，持续学习和成长中。我的研究兴趣包括 **机器学习、计算机视觉** 以及 **自然语言处理** 等相关方向。
+I am passionate about computer science and artificial intelligence research, with interests in **Machine Learning**, **Computer Vision**, and **Natural Language Processing**.
 
-**联系方式：**
+**Contact:**
 - 📧 Email: [746039047@qq.com](mailto:746039047@qq.com)
 - 🐙 GitHub: [znsnde](https://github.com/znsnde)
 
-**关键词：** 兰州理工大学 · 计算机科学 · 人工智能 · 机器学习
+**Keywords:** Lanzhou University of Technology · Computer Science · AI · Machine Learning
 
-# 📝 教育经历
+# 📝 Education
 
-- **2022.09 - 至今**，兰州理工大学，计算机科学与技术专业
-- **之前教育经历待补充**
+- **2022.09 - Present**, Lanzhou University of Technology, B.S. in Computer Science and Technology
 
-# 🔬 研究兴趣
+# 🔬 Research Interests
 
-- **机器学习**：深度学习、强化学习等相关方向
-- **计算机视觉**：图像识别、目标检测等
-- **自然语言处理**：文本分类、信息抽取等
+- **Machine Learning**: Deep learning, reinforcement learning, and related fields
+- **Computer Vision**: Image recognition, object detection
+- **Natural Language Processing**: Text classification, information extraction
 
-# 🔥 最新动态
+# 🔥 News
 
-- *2024.xx*：&nbsp;🎉 待更新
-- *2024.xx*：&nbsp;🎉 待更新
+- *2024.xx*: &nbsp;🎉 Coming soon
+- *2024.xx*: &nbsp;🎉 Coming soon
 
-# 📚 论文发表
+# 📚 Publications
 
-*暂无论文发表记录*
+*No publications yet*
 
-# 🎖 荣誉与奖项
+# 🎖 Honors & Awards
 
-*暂无记录*
+*No records yet*
 
-# 💻 项目经历
+# 💻 Projects
 
-*暂无记录*
+*No records yet*
