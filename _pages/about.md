@@ -37,8 +37,8 @@ Outside of research, I enjoy **football** and **badminton**, and I'm always look
 # 📝 Education
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; padding: 12px 15px; background: #f8f9fa; border-radius: 10px; border-left: 4px solid #1a5276;">
-  <div style="width: 50px; height: 50px; min-width: 50px; margin-right: 18px; display: flex; align-items: center; justify-content: center; background: linear-gradient(135deg, #1a5276, #2980b9); border-radius: 50%; color: white; font-weight: bold; font-size: 16px;">
-    LUT
+  <div style="width: 55px; height: 55px; min-width: 55px; margin-right: 18px; display: flex; align-items: center; justify-content: center;">
+    <img src="images/lut_badge.svg" alt="LUT" style="width: 55px; height: 55px;">
   </div>
   <div>
     <strong>Lanzhou University of Technology</strong><br>
