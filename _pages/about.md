@@ -54,7 +54,7 @@ Outside of research, I enjoy **football** and **badminton**, and I'm always look
   </div>
   <div>
     <strong>No.8 High School (八中)</strong><br>
-    <span style="color: #666;">待补充时间</span>
+    <span style="color: #666;">2021.09 - 2024.06</span>
   </div>
 </div>
 
