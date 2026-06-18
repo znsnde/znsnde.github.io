@@ -39,7 +39,7 @@ Outside of research, I enjoy **football** and **badminton**, and I'm always look
 <div style="display: flex; align-items: center; margin-bottom: 20px; padding: 12px 15px; background: #f8f9fa; border-radius: 10px; border-left: 4px solid #1a5276;">
   <div style="width: 55px; height: 55px; min-width: 55px; margin-right: 18px; display: flex; align-items: center; justify-content: center;">
     <a href="https://www.lut.edu.cn" target="_blank" rel="noopener noreferrer">
-      <img src="images/lut_badge.svg" alt="LUT" style="width: 55px; height: 55px;">
+      <img src="images/lut_logo.png" alt="LUT" style="width: 55px; height: 55px; border-radius: 50%; object-fit: cover; border: 2px solid #1a5276;">
     </a>
   </div>
   <div>
