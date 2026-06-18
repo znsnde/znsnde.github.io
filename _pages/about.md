@@ -29,6 +29,9 @@ Outside of research, I enjoy **football** and **badminton**, and I'm always look
 - 📧 Email: [746039047@qq.com](mailto:746039047@qq.com)
 - 🐙 GitHub: [znsnde](https://github.com/znsnde)
 
+<a href='https://github.com/znsnde'><img src="https://img.shields.io/badge/GitHub-znsnde-181717?logo=github&style=flat-square"></a>
+<a href='https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
 **Keywords:** Lanzhou University of Technology · Software Engineering · Data Analysis · Embedded Systems
 
 # 📝 Education
@@ -40,6 +43,11 @@ Outside of research, I enjoy **football** and **badminton**, and I'm always look
 - **Data Analysis**: Data cleaning, processing, and visualization
 - **Embedded Systems**: STM32-based system design and development
 - **Application Development**: Project development and software engineering
+
+# 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=znsnde&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=znsnde&layout=compact&theme=default" alt="Top Languages" height="165">
 
 # 🔥 News
 
