@@ -44,16 +44,16 @@ Outside of research, I enjoy **football** and **badminton**, and I'm always look
   </div>
   <div>
     <strong>Lanzhou University of Technology</strong><br>
-    <span style="color: #666;">2022.09 - Present</span> · B.S. in Software Engineering (Kunpeng Class)
+    <span style="color: #666;">2022.09 - Present</span> · Senior Student, B.S. in Software Engineering (Kunpeng Class)
   </div>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; padding: 12px 15px; background: #f8f9fa; border-radius: 10px; border-left: 4px solid #e67e22;">
   <div style="width: 55px; height: 55px; min-width: 55px; margin-right: 18px; display: flex; align-items: center; justify-content: center;">
-    <img src="images/bazhong_logo.webp" alt="八中" style="width: 55px; height: 55px; border-radius: 50%; object-fit: cover; border: 2px solid #e67e22;">
+    <img src="images/bazhong_logo.webp" alt="No.8 High School" style="width: 55px; height: 55px; border-radius: 50%; object-fit: cover; border: 2px solid #e67e22;">
   </div>
   <div>
-    <strong>No.8 High School (八中)</strong><br>
+    <strong>No.8 High School</strong><br>
     <span style="color: #666;">2021.09 - 2024.06</span>
   </div>
 </div>
