@@ -64,11 +64,6 @@ Outside of research, I enjoy **football** and **badminton**, and I'm always look
 - **Embedded Systems**: STM32-based system design and development
 - **Application Development**: Project development and software engineering
 
-# 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=znsnde&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=znsnde&layout=compact&theme=default" alt="Top Languages" height="165">
-
 # 🔥 News
 
 - *2024.xx*: &nbsp;🎉 Coming soon
