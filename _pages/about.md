@@ -19,25 +19,27 @@ redirect_from:
 
 # 👋 About Me
 
-I'm **Zixu Li**, currently studying at **Lanzhou University of Technology** in Gansu, China.
+I'm **Zixu Li (李子旭)**, an undergraduate student majoring in **Software Engineering** at **Lanzhou University of Technology**, and a member of the **Kunpeng Class**.
 
-I am passionate about computer science and artificial intelligence research, with interests in **Machine Learning**, **Computer Vision**, and **Natural Language Processing**.
+My research interests focus on **Data Analysis** and **Microcontroller Applications**. I am particularly interested in project development, data cleaning, and data analysis. My next learning direction is **STM32-based Embedded System Design**.
+
+Outside of research, I enjoy **football** and **badminton**, and I'm always looking for ways to integrate technology into sports.
 
 **Contact:**
 - 📧 Email: [746039047@qq.com](mailto:746039047@qq.com)
 - 🐙 GitHub: [znsnde](https://github.com/znsnde)
 
-**Keywords:** Lanzhou University of Technology · Computer Science · AI · Machine Learning
+**Keywords:** Lanzhou University of Technology · Software Engineering · Data Analysis · Embedded Systems
 
 # 📝 Education
 
-- **2022.09 - Present**, Lanzhou University of Technology, B.S. in Computer Science and Technology
+- **2022.09 - Present**, Lanzhou University of Technology, B.S. in Software Engineering (Kunpeng Class)
 
 # 🔬 Research Interests
 
-- **Machine Learning**: Deep learning, reinforcement learning, and related fields
-- **Computer Vision**: Image recognition, object detection
-- **Natural Language Processing**: Text classification, information extraction
+- **Data Analysis**: Data cleaning, processing, and visualization
+- **Embedded Systems**: STM32-based system design and development
+- **Application Development**: Project development and software engineering
 
 # 🔥 News
 
