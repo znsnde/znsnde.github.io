@@ -26,5 +26,7 @@ group :jekyll_plugins do
   gem 'hawkins'
   gem 'csv'
   gem 'bigdecimal'
+  gem 'tzinfo'
   gem 'tzinfo-data'
+  gem 'webrick'
 end

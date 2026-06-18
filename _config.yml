@@ -10,6 +10,7 @@ timezone: Asia/Shanghai
 title                    : "Zixu Li"
 description              : "Personal homepage of Zixu Li - Lanzhou University Of Technology"
 repository               : "znsnde/znsnde.github.io"
+github                   : [metadata]
 google_scholar_stats_use_cdn : true
 
 # google analytics
